@@ -1,5 +1,5 @@
 <p align="center">
-  ![Demo GIF](Open.gif)
+  <img src="Open.gif" alt="Demo GIF">
 </p>
 
 <h1 align="center">🌐 Open World Learning (OWL)</h1>

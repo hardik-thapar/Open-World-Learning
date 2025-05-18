@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Open.gif" width="100%" alt="OWL Banner" />
+  <img src="Open.gif" alt="FLIX Logo" width="600px">
 </p>
 
 <h1 align="center">🌐 Open World Learning (OWL)</h1>

@@ -1,58 +1,76 @@
-# Open World Learning (OWL)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hardik-thapar/Open-World-Learning/Open World Learning-2.gif" width="100%" alt="OWL Banner" />
+</p>
 
-Open World Learning (OWL) is a decentralized, blockchain-powered education platform designed to make quality learning accessible to everyone, everywhere. OWL leverages cutting-edge technologies like blockchain, IPFS, and AI to provide secure, censorship-resistant, and globally available educational resources.
+<h1 align="center">🌐 Open World Learning (OWL)</h1>
+<h3 align="center">A Decentralized, AI-Powered Education Platform for Everyone, Everywhere</h3>
 
-## 🌍 Key Features
-
-- **Decentralized Access:** Learn from anywhere, even in regions affected by conflict or limited infrastructure.
-- **Blockchain Security:** Authenticate and verify credentials using MetaMask and blockchain technology.
-- **Permanent Content Storage:** Educational resources are stored on IPFS for censorship resistance and permanence.
-- **Personalized Learning:** AI-driven recommendations and smart content tailored to your interests.
-- **Inclusive Design:** Special courses and accessibility features for differently-abled learners.
-- **Global Community:** Connect with educators and learners worldwide.
-
-## 🚀 Getting Started
-
-1. **Clone the repository:**
-   ```bash
-   git clone <repo-url>
-   cd open-world-learning
-   ```
-2. **Install dependencies:**
-   ```bash
-   npm install
-   # or
-   yarn install
-   ```
-3. **Run the development server:**
-   ```bash
-   npm run dev
-   # or
-   yarn dev
-   ```
-4. **Open your browser:**
-   Visit [http://localhost:3000](http://localhost:3000) to start exploring OWL.
-
-## 🛠️ Project Structure
-- `pages/` — Main Next.js pages (landing, home, auth, about, etc.)
-- `components/` — Reusable React components
-- `data/` — Static data and course definitions
-- `styles/` — Global and component styles
-
-## 🤝 Contributing
-We welcome contributions from the community! To contribute:
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/your-feature`)
-3. Commit your changes
-4. Push to your fork and submit a pull request
-
-## 📄 License
-This project is licensed under the MIT License.
-
-## 🙌 Acknowledgements
-- Built with [Next.js](https://nextjs.org/), [Framer Motion](https://www.framer.com/motion/), and [ethers.js](https://docs.ethers.org/)
-- Inspired by the vision of open, borderless, and resilient education for all
+<p align="center">
+  <strong>Empowering learners beyond borders, barriers, and biases. 🌍✨</strong>
+</p>
 
 ---
 
-For questions or support, contact us at [contact@owlearning.com](mailto:contact@owlearning.com)
+## 🏆 Made For
+
+> This project was proudly built for the **Code Circuit: Vibe Coding Hackathon** ✨  
+> A celebration of innovation, decentralization, and accessible learning.  
+> We're here to show the future of global education — one learner at a time.
+
+---
+
+## 🔥 Why OWL?
+
+> "Imagine a world where education knows no borders, where every learner has equal access to quality resources — no matter who they are or where they come from."
+
+**Open World Learning (OWL)** is more than just an app — it's a revolution.  
+Built on **blockchain**, powered by **AI**, and backed by the **future of decentralization**, OWL ensures learning is **permanent, personalized, inclusive, and free from censorship**.
+
+---
+
+## 🌟 Key Features
+
+| 🚀 Feature                     | 💡 Description                                                                 |
+|------------------------------|------------------------------------------------------------------------------|
+| 🛰️ **Decentralized Access**     | Learn from anywhere — even conflict zones or disconnected regions.           |
+| 🔐 **Blockchain Credentials**   | Sign in with MetaMask and own your verified learning credentials.            |
+| 📦 **IPFS Content Storage**     | Courses stored on IPFS for **permanent** and **censorship-resistant** access.|
+| 🤖 **AI-Personalized Learning** | Smart recommendations tailored to your interests and goals.                  |
+| ♿ **Accessibility by Design**  | Courses for the deaf, blind, and differently-abled, with voice & sign support.|
+| 🌐 **Global Learning Network** | Connect with a diverse, supportive community of learners & educators.        |
+
+---
+
+## 🛠️ Tech Stack
+
+Built with modern, scalable technologies:
+
+- 🧠 **Next.js** – for blazing-fast React web development
+- 🎞️ **Framer Motion** – for sleek UI animations
+- 🛢️ **IPFS** – for decentralized content storage
+- 🦊 **MetaMask + ethers.js** – for secure blockchain authentication
+- 🧩 **AI APIs** – for intelligent content personalization
+
+---
+
+## 🚀 Getting Started
+
+Clone and run the OWL platform locally:
+
+```bash
+# Clone the repo
+git clone <repo-url>
+cd open-world-learning
+
+# Install dependencies
+npm install
+# or
+yarn install
+
+# Start the development server
+npm run dev
+# or
+yarn dev
+
+# Open in browser
+Visit http://localhost:3000

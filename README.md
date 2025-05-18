@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hardik-thapar/Open-World-Learning/Open World Learning-2.gif" width="100%" alt="OWL Banner" />
+  <img src="Open.gif" width="100%" alt="OWL Banner" />
 </p>
 
 <h1 align="center">🌐 Open World Learning (OWL)</h1>

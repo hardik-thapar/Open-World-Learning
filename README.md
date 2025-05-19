@@ -4,7 +4,7 @@
 
 <h1 align="center">🌐 Open World Learning (OWL)</h1>
 <h2 align="center">A Decentralized, AI-Powered Education Platform for Everyone, Everywhere</h2>
-<h4><a href="https://open-world-learning.vercel.app/">DEM0 - Prefer Chrome and Install metaamsk</a></h4>
+<h4 align="center"><a href="https://open-world-learning.vercel.app/">DEM0 - Prefer Chrome and Install metaamsk</a></h4>
 <p align="center">
   <strong>Empowering learners beyond borders, barriers, and biases. 🌍✨</strong>
 </p>

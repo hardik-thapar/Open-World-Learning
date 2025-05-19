@@ -3,8 +3,8 @@
 </p>
 
 <h1 align="center">🌐 Open World Learning (OWL)</h1>
-<h3 align="center">A Decentralized, AI-Powered Education Platform for Everyone, Everywhere</h3>
-
+<h2 align="center">A Decentralized, AI-Powered Education Platform for Everyone, Everywhere</h2>
+<h3><a href="https://open-world-learning.vercel.app/">DEM0 -  [ Prfer Chrome and Install metaamsk ]</a></h3>
 <p align="center">
   <strong>Empowering learners beyond borders, barriers, and biases. 🌍✨</strong>
 </p>
